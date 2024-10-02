@@ -56,6 +56,10 @@ body {
   height: 300px;
 }
 
+body p {
+  color: black;
+}
+
 footer {
   color: white;
   padding: 20px;
